@@ -1,0 +1,428 @@
+# Russian translations for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-10-06 22:52+0300\n"
+"PO-Revision-Date: 2023-10-06 22:52+0300\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ru\n"
+"Language-Team: ru <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: handlers/about_handlers.py:25
+msgid "Выберите раздел ниже"
+msgstr ""
+
+#: handlers/about_handlers.py:30
+msgid "Наши 🤳 Соц сети"
+msgstr ""
+
+#: handlers/about_handlers.py:35
+msgid "Как работает наша 🚛 Доставка"
+msgstr ""
+
+#: handlers/about_handlers.py:40
+msgid "Наша гарантия 🚀 Гарантия"
+msgstr ""
+
+#: handlers/admin_handlers.py:278
+msgid "Отправьте мне id получателя!"
+msgstr ""
+
+#: handlers/admin_handlers.py:286
+msgid "ID принят! Теперь введите текст!"
+msgstr ""
+
+#: handlers/admin_handlers.py:298
+msgid "Сообщение успешно отправлено!"
+msgstr ""
+
+#: handlers/back_handler.py:31
+msgid "Выберите раздел:"
+msgstr ""
+
+#: handlers/back_handler.py:63
+msgid ""
+"Привет, {fullname}!!\n"
+"\n"
+"Добро пожаловать в корпоративный бот компании <b> CROSSGIF </b> \n"
+msgstr ""
+
+#: handlers/default_handlers.py:24
+msgid "Команда не доступна, нажмите на /start чтобы увидеть меню"
+msgstr ""
+
+#: handlers/feedback_handlers.py:27
+msgid ""
+"Пожалуйста, напишите свой отзыв в ✍️ письменной форме. И мы свяжемся с "
+"Вами в ближайшее время. 😊"
+msgstr ""
+
+#: handlers/feedback_handlers.py:34
+msgid "Ваше сообщение принято!"
+msgstr ""
+
+#: handlers/feedback_handlers.py:35
+msgid "Для заказа нажмите 🛍 Заказать."
+msgstr ""
+
+#: handlers/locations_handler.py:29 handlers/locations_handler.py:39
+msgid "Первая локация"
+msgstr ""
+
+#: handlers/offer_handlers.py:40 handlers/offer_handlers.py:45
+#: handlers/offer_handlers.py:57 handlers/reginstration_handler.py:87
+msgid "Выберите раздел ниже ⤵️"
+msgstr ""
+
+#: handlers/offer_handlers.py:70
+msgid ""
+"<b>Максимальная Очистка: 🌟</b> TozaSuv - это 9 степеней очистки, чтобы "
+"каждая капля воды была чистой и свежей, как утренний роса.\n"
+"\n"
+"<b>Озонирование для Здоровья: 💧</b> Мы обогатили TozaSuv озоном, чтобы "
+"ваша вода была не только чистой, но и полезной. Это ваш дополнительный "
+"заряд энергии и здоровья в каждой бутылке.\n"
+"\n"
+"<b>Бесплатная Доставка: 🚚</b> И самое лучшее - мы доставляем TozaSuv "
+"прямо к вам! Наслаждайтесь чистой водой, не переживая за доставку.<b>Без "
+"Усилий: 🌆</b> Независимо от этажа, TozaSuv легко поднимется к вам. Мы "
+"заботимся о вашем комфорте и гарантируем, что вы всегда будете иметь "
+"доступ к нашей воде.\n"
+"\n"
+"<b>Выберите объем для оформление заказа ⏬</b>"
+msgstr ""
+
+#: handlers/offer_handlers.py:90
+msgid ""
+"<b>💦 Toza Suv 5л</b>\n"
+"\n"
+"<b>Цена:</b> 10.000 сум \n"
+"\n"
+"🌟 Toza Suv - вода высшего качества, которую вы заслуживаете! Насладитесь "
+"каждой каплей свежести и чистоты.\n"
+"\n"
+"💧 Наша вода прошла 9 степеней очистки, чтобы быть идеально чистой. Это "
+"здорово, верно?\n"
+"\n"
+"🚚 И вы знаете, что лучшее? Мы бесплатно доставим TozaSuv прямо к вам, "
+"чтобы вы могли наслаждаться без забот о доставке.\n"
+"\n"
+"🌆 А касательно этажей, независимо от этажа, TozaSuv легко дойдет до вас. "
+"Всегда доступно и удобно!\n"
+"\n"
+"Попробуйте Toza Suv и почувствуйте разницу! 💦"
+msgstr ""
+
+#: handlers/offer_handlers.py:99
+msgid ""
+"<b>💦 Toza Suv 10л</b>\n"
+"\n"
+"<b>Цена:</b> 15.000 сум \n"
+"\n"
+"🌟 Toza Suv - вода высшего качества, которую вы заслуживаете! Насладитесь "
+"каждой каплей свежести и чистоты.\n"
+"\n"
+"💧 Наша вода прошла 9 степеней очистки, чтобы быть идеально чистой. Это "
+"здорово, верно?\n"
+"\n"
+"🚚 И вы знаете, что лучшее? Мы бесплатно доставим TozaSuv прямо к вам, "
+"чтобы вы могли наслаждаться без забот о доставке.\n"
+"\n"
+"🌆 А касательно этажей, независимо от этажа, TozaSuv легко дойдет до вас. "
+"Всегда доступно и удобно!\n"
+"\n"
+"Попробуйте Toza Suv и почувствуйте разницу! 💦"
+msgstr ""
+
+#: handlers/offer_handlers.py:108
+msgid ""
+"<b>💦 Toza Suv 18.5л</b>\n"
+"\n"
+"<b>Цена:</b> 20.000 сум \n"
+"\n"
+"🌟 Toza Suv - вода высшего качества, которую вы заслуживаете! Насладитесь "
+"каждой каплей свежести и чистоты.\n"
+"\n"
+"💧 Наша вода прошла 9 степеней очистки, чтобы быть идеально чистой. Это "
+"здорово, верно?\n"
+"\n"
+"🚚 И вы знаете, что лучшее? Мы бесплатно доставим TozaSuv прямо к вам, "
+"чтобы вы могли наслаждаться без забот о доставке.\n"
+"\n"
+"🌆 А касательно этажей, независимо от этажа, TozaSuv легко дойдет до вас. "
+"Всегда доступно и удобно!\n"
+"\n"
+"Попробуйте Toza Suv и почувствуйте разницу! 💦"
+msgstr ""
+
+#: handlers/offer_handlers.py:117
+msgid ""
+"<b>💦 Toza Suv 19л</b>\n"
+"\n"
+"<b>Цена:</b> 25.000 сум \n"
+"\n"
+"🌟 Toza Suv - вода высшего качества, которую вы заслуживаете! Насладитесь "
+"каждой каплей свежести и чистоты.\n"
+"\n"
+"💧 Наша вода прошла 9 степеней очистки, чтобы быть идеально чистой. Это "
+"здорово, верно?\n"
+"\n"
+"🚚 И вы знаете, что лучшее? Мы бесплатно доставим TozaSuv прямо к вам, "
+"чтобы вы могли наслаждаться без забот о доставке.\n"
+"\n"
+"🌆 А касательно этажей, независимо от этажа, TozaSuv легко дойдет до вас. "
+"Всегда доступно и удобно!\n"
+"\n"
+"Попробуйте Toza Suv и почувствуйте разницу! 💦"
+msgstr ""
+
+#: handlers/offer_handlers.py:136
+msgid "Выберите сколько хотели бы заказать "
+msgstr ""
+
+#: handlers/offer_handlers.py:159
+msgid "Выбрать воду"
+msgstr ""
+
+#: handlers/offer_handlers.py:174
+msgid "Выбрано {water_selected} штук воды <b> {offer_product} </b>"
+msgstr ""
+
+#: handlers/offer_handlers.py:175
+msgid "Отправьте новую гео-локацию,либо пропустите шаг"
+msgstr ""
+
+#: handlers/offer_handlers.py:192
+msgid "Выберите тип оплаты:"
+msgstr ""
+
+#: handlers/offer_handlers.py:207
+msgid "Оплатите платеж,для дальнейшего заказа!"
+msgstr ""
+
+#: handlers/offer_handlers.py:236
+msgid ""
+"Оплата прошла успешно 💸, напишите коментарии к заказу либо пропустите "
+"этот шаг"
+msgstr ""
+
+#: handlers/offer_handlers.py:247
+msgid "Напишите комментарии к заказу либо пропустите этот шаг"
+msgstr ""
+
+#: handlers/offer_handlers.py:339
+msgid "Ваш заказ приняли, ожидайте"
+msgstr ""
+
+#: handlers/reginstration_handler.py:78
+msgid "Отправьте свою гео-локцию, с помощью кнопки"
+msgstr ""
+
+#: handlers/reginstration_handler.py:81
+msgid "Неверный формат номера. Пожалуйста, введите корректный номер телефона."
+msgstr ""
+
+#: handlers/reginstration_handler.py:86
+msgid "Авторизация прошла успешно! Поздравляем! 🎉"
+msgstr ""
+
+#: handlers/settings_handler.py:24
+msgid "Выберите филиал:"
+msgstr ""
+
+#: handlers/settings_handler.py:28
+msgid "📲 Единый call-центр: 7777 или (77) 777-77-77"
+msgstr ""
+
+#: handlers/settings_handler.py:33 handlers/settings_handler.py:48
+#: handlers/settings_handler.py:53
+msgid "Выберите действие:"
+msgstr ""
+
+#: handlers/settings_handler.py:38
+msgid "Выберите язык::"
+msgstr ""
+
+#: handlers/start_handlers.py:39
+msgid ""
+"Привет, {fullname} 👋\n"
+"\n"
+"Добро пожаловать в наш бот TozaSuv  \n"
+msgstr ""
+
+#: keyboards/default/offers_default.py:7
+msgid "💦 Вода TozaSuv"
+msgstr ""
+
+#: keyboards/default/offers_default.py:8
+msgid "🚰 Куллеры TozaSuv"
+msgstr ""
+
+#: keyboards/default/offers_default.py:9
+msgid "🗜 Помпы для воды"
+msgstr ""
+
+#: keyboards/default/offers_default.py:10
+#: keyboards/default/offers_default.py:22
+#: keyboards/default/offers_default.py:35
+#: keyboards/default/params_default.py:38
+#: keyboards/default/params_default.py:49
+#: keyboards/default/params_default.py:60
+#: keyboards/default/params_default.py:68 keyboards/inline/params_inline.py:9
+#: keyboards/inline/params_inline.py:20
+msgid "🔙 Назад"
+msgstr ""
+
+#: keyboards/default/offers_default.py:18
+msgid "💦 10kg"
+msgstr ""
+
+#: keyboards/default/offers_default.py:19
+msgid "🚰 20kg"
+msgstr ""
+
+#: keyboards/default/offers_default.py:20
+#: keyboards/default/offers_default.py:21
+msgid "🗜 30kg"
+msgstr ""
+
+#: keyboards/default/offers_default.py:31
+msgid "💦 Toza Suv 5л"
+msgstr ""
+
+#: keyboards/default/offers_default.py:32
+msgid "💦 Toza Suv 10л"
+msgstr ""
+
+#: keyboards/default/offers_default.py:33
+#: keyboards/default/offers_default.py:34
+msgid "💦 Toza Suv 18.5л"
+msgstr ""
+
+#: keyboards/default/offers_default.py:46
+#: keyboards/default/offers_default.py:76
+msgid "Пропустить ➡️"
+msgstr ""
+
+#: keyboards/default/offers_default.py:64
+msgid "💸 Наличными"
+msgstr ""
+
+#: keyboards/default/offers_default.py:65
+msgid "💳 Click UP"
+msgstr ""
+
+#: keyboards/default/offers_default.py:66
+msgid "💳 Терминал"
+msgstr ""
+
+#: keyboards/default/offers_default.py:67
+#: keyboards/default/offers_default.py:77
+#: keyboards/default/params_default.py:10
+#: keyboards/default/params_default.py:29
+msgid "⬅️ Назад"
+msgstr ""
+
+#: keyboards/default/offers_default.py:75 keyboards/default/params_default.py:9
+msgid "📍 Отправить гео-локацию "
+msgstr ""
+
+#: keyboards/default/params_default.py:27
+msgid "🚙 Доставка"
+msgstr ""
+
+#: keyboards/default/params_default.py:28
+msgid "🏃 Самовывоз"
+msgstr ""
+
+#: keyboards/default/params_default.py:37 keyboards/inline/params_inline.py:8
+msgid "🇺🇿🇷🇺 Изменить язык "
+msgstr ""
+
+#: keyboards/default/params_default.py:39
+msgid "🔑 Повторная  авторизация"
+msgstr ""
+
+#: keyboards/default/params_default.py:47 keyboards/inline/params_inline.py:18
+msgid "📍 Первая локация "
+msgstr ""
+
+#: keyboards/default/params_default.py:48 keyboards/inline/params_inline.py:19
+msgid "📍 Вторая локация"
+msgstr ""
+
+#: keyboards/default/params_default.py:57
+msgid "🤳 Соц сети "
+msgstr ""
+
+#: keyboards/default/params_default.py:58
+msgid "🚛 Доставка "
+msgstr ""
+
+#: keyboards/default/params_default.py:59
+msgid "🚀 Гарантия "
+msgstr ""
+
+#: keyboards/inline/admin_inline.py:35
+msgid "Включить"
+msgstr ""
+
+#: keyboards/inline/admin_inline.py:36
+msgid "Выключить"
+msgstr ""
+
+#: keyboards/inline/language_inline.py:7
+#: keyboards/inline/main_menu_inline.py:10
+msgid "🇷🇺 Русский"
+msgstr ""
+
+#: keyboards/inline/language_inline.py:8
+#: keyboards/inline/main_menu_inline.py:11
+msgid "🇺🇿 Uzbek"
+msgstr ""
+
+#: keyboards/inline/main_menu_inline.py:16
+#: keyboards/inline/main_menu_inline.py:31
+msgid "🛍 Заказать"
+msgstr ""
+
+#: keyboards/inline/main_menu_inline.py:17
+#: keyboards/inline/main_menu_inline.py:32
+msgid "⚙️ Настройки"
+msgstr ""
+
+#: keyboards/inline/main_menu_inline.py:18
+#: keyboards/inline/main_menu_inline.py:33
+msgid "💼 О компании"
+msgstr ""
+
+#: keyboards/inline/main_menu_inline.py:19
+#: keyboards/inline/main_menu_inline.py:34
+msgid "📖 Предложение и жалобы"
+msgstr ""
+
+#: keyboards/inline/main_menu_inline.py:20
+#: keyboards/inline/main_menu_inline.py:35
+msgid "📍 Наши филиалы"
+msgstr ""
+
+#: keyboards/inline/main_menu_inline.py:21
+#: keyboards/inline/main_menu_inline.py:36
+msgid "☎️ Обратная связь"
+msgstr ""
+
+#: keyboards/inline/params_inline.py:10
+msgid "Выйти  🔑"
+msgstr ""
+
